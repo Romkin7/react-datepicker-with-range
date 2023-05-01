@@ -1,5 +1,5 @@
 import "./App.scss";
-import Calendar from "./Components/Datepicker/Datepicker";
+import Calendar from "./Components/Datepicker/Calendar";
 
 function App() {
   return (
